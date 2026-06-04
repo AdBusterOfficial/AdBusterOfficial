@@ -28,13 +28,12 @@ No cloud. No accounts. No audio recording. Everything runs locally with zero lat
 - 💾 GitHub Project: https://github.com/AdBusterOfficial/Adbuster--WinApp  
 - 📘 Facebook: **AdBusterOfficial**  
 - 📸 Instagram: **adbuster_official**  
-- 🐦 Twitter: **@AdBuster_WinApp**
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="left">
-  • Windows • C# • .NET • CEPA Logic • Local ML  
+  • Windows • Python • Tkinter GUI • CEPA Logic • Local ML  
   • Broadlink IR • Real‑time Audio Processing  
 </p>
 
@@ -53,4 +52,3 @@ If you want to report a bug or suggest an improvement, please use:
 
 • GitHub Issues (recommended)  
 • Contact form available on the project website  
-
