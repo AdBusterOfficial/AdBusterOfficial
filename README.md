@@ -47,5 +47,10 @@ No cloud. No accounts. No audio recording. Everything runs locally with zero lat
 
 ---
 
-## 🤝 Contact
-If you want to collaborate, test, or integrate AdBuster with Smart Home systems — feel free to reach out.
+## 📬 Contact
+AdBuster is a project developed and maintained by the AdBuster Team.  
+If you want to report a bug or suggest an improvement, please use:
+
+• GitHub Issues (recommended)  
+• Contact form available on the project website  
+
