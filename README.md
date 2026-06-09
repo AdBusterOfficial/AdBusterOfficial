@@ -48,4 +48,4 @@ If you want to report a bug or suggest an improvement, please use:
 📩 **Contact:**  
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
 
-© 2026 — D.P‑G. All rights reserved.
+© 2026 — D.P‑G & AdBuster Team Dublin. All rights reserved.
