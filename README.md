@@ -11,8 +11,10 @@
 ---
 
 ## 🚀 About the Project
-AdBuster 2.0 PRO is a Windows application that automatically detects loud TV ads and lowers the volume in real time.  
-No cloud. No accounts. No audio recording. Everything runs locally with zero latency.
+AdBuster 2.0 PRO is a fully offline Windows application that detects loud TV commercials and stabilizes audio in real time.
+No cloud services, no accounts, no audio recording — all processing runs locally with near‑zero latency.
+
+---
 
 ### 🔧 Core Features
 - Real‑time audio spike detection  
