@@ -24,11 +24,12 @@ No cloud. No accounts. No audio recording. Everything runs locally with zero lat
 ---
 
 ## 🔗 Links
-- 🌐 Website: https://sites.google.com/view/adbuster-winapp  
-- 💾 GitHub Project: https://github.com/AdBusterOfficial/Adbuster--WinApp  
-- 📘 Facebook: AdBusterOfficial — https://www.facebook.com/AdBusterOfficial  
-- 📸 Instagram: adbuster_official — https://www.instagram.com/adbuster_official  
-- 🎧 Spotify Podcast: https://open.spotify.com/show/51ElzhLJe01hzCwZXciK8w
+🌐 Website: https://sites.google.com/view/adbuster-winapp  
+💾 GitHub Project: https://github.com/AdBusterOfficial/Adbuster--WinApp  
+📘 Facebook: AdBusterOfficial — https://www.facebook.com/AdBusterOfficial  
+📸 Instagram: adbuster_official — https://www.instagram.com/adbuster_official  
+🎧 Spotify Podcast: https://open.spotify.com/show/51ElzhLJe01hzCwZXciK8w  
+🌍 World User Group (Facebook): https://www.facebook.com/groups/adbusterwinappworldusergroup
   
 ---
 
