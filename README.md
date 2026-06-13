@@ -31,6 +31,7 @@ No cloud services, no accounts, no audio recording — all processing runs local
 📘 Facebook: AdBusterOfficial — https://www.facebook.com/AdBusterOfficial  
 📸 Instagram: adbuster_official — https://www.instagram.com/adbuster_official  
 🎧 Spotify Podcast: https://open.spotify.com/show/51ElzhLJe01hzCwZXciK8w  
+▶️ YouTube: https://www.youtube.com/@AdBuster_WinApp  
 🌍 World User Group (Facebook): https://www.facebook.com/groups/adbusterwinappworldusergroup
   
 ---
