@@ -49,6 +49,7 @@ If you want to report a bug or suggest an improvement, please use:
 
 • GitHub Issues (recommended)  
 • Contact form available on the project website  
+<br>
 📩 **Contact:**  
 [Official Contact Form](https://sites.google.com/view/adbuster-winapp/contact?authuser=0)
 
