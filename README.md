@@ -18,7 +18,7 @@ No cloud. No accounts. No audio recording. Everything runs locally with zero lat
 - Real‑time audio spike detection  
 - CEPA logic for intelligent ad recognition  
 - Broadlink IR volume control  
-- Zero‑latency stabilization  
+- Instant stabilization (near‑zero latency)  
 - Smart Home friendly  
 
 ---
