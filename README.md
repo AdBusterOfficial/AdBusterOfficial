@@ -10,6 +10,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdBusterOfficial/AdBusterOfficial/main/GitHub_project.png" width="220" alt="AdBuster QR Code"/>
+  <br>
+  <sub><strong>Scan to open the GitHub repository</strong></sub>
 </p>
 
 ---
