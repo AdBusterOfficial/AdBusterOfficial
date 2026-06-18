@@ -8,6 +8,10 @@
   Advanced Windows tool for real‑time TV ad volume stabilization using CEPA logic + Broadlink IR.
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdBusterOfficial/AdBusterOfficial/main/GitHub_project.png" width="220" alt="AdBuster QR Code"/>
+</p>
+
 ---
 
 ## 🚀 About the Project
