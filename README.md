@@ -40,7 +40,7 @@ No cloud services, no accounts, no audio recording — all processing runs local
 📺 YouTube: https://www.youtube.com/@AdBuster_WinApp  
 🌍 World User Group (Facebook): https://www.facebook.com/groups/adbusterwinappworldusergroup  
 🧵 Hacker News Profile: https://news.ycombinator.com/user?id=Bo_Amigo_910
-☘️ Wiki: https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki
+☘️ Wiki: https://github.com/AdBusterOfficial/Adbuster--WinApp/wiki 
   
 ---
 
