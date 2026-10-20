@@ -22,7 +22,7 @@ No cloud services, no accounts, no audio recording — all processing runs local
 
 ---
 
-### 🔧 Core Features
+### 🎯 Core Features
 - Real‑time audio spike detection  
 - CEPA logic for intelligent ad recognition  
 - Broadlink IR volume control  
