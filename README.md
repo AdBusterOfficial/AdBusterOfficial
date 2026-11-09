@@ -5,7 +5,7 @@
 
 <h1 align="center">AdBuster 2.0 PRO</h1>
 <p align="center">
-  Advanced Windows tool for real‑time TV ad volume stabilization using CEPA logic + Broadlink IR.
+  ❖ Advanced Windows tool for real‑time TV ad volume stabilization using CEPA logic + Broadlink IR.
 </p>
 
 <p align="center">
